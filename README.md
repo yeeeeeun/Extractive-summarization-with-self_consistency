@@ -1,4 +1,7 @@
 # Extractive-summarization-with-self_consistency
+
+![image](https://github.com/user-attachments/assets/b6afd528-fc64-4404-b818-83ef9cf1da48)
+
 ## 📂 Structure
 
 folder has the following structure:
