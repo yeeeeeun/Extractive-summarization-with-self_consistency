@@ -39,7 +39,6 @@ self_consistency_
 │       ├──top_voting.sh
 |      └──trigram_blocking
 │       ├──tri.py
-│       ├──tri.sh
-|
-└── 
+└──     ├──tri.sh
+
 ```
