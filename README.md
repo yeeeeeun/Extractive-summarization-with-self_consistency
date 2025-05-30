@@ -1,6 +1,6 @@
 # Extractive-summarization-with-self_consistency
 
-![image](https://github.com/user-attachments/assets/b6afd528-fc64-4404-b818-83ef9cf1da48)
+![image](https://github.com/user-attachments/assets/1730c27b-b2d5-4095-9cdd-9faf2bf0bed2)
 
 ## 📂 Structure
 
